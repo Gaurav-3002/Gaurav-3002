@@ -21,19 +21,11 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
 
 | Languages & Frameworks             | Databases & Tools        | ML & Data Science                 | DevOps & Cloud                   |
 | ---------------------------------- | ------------------------ | --------------------------------- | -------------------------------- |
-| Python • Java • C • C++ • JavaScript • TypeScript • HTML/CSS | MySQL • PostgreSQL • MongoDB • SQLite | scikit‑learn • TensorFlow • XGBoost • Pandas • NumPy • Matplotlib | Docker • Kubernetes • AWS • Azure |
-| React • Vue • Angular • Node.js • Express.js • Flask • Spring Boot | Redis • Elasticsearch | NLP (NLTK, Transformers) • CV (OpenCV) | Git • CI/CD (Jenkins, GitHub Actions) |
+| Python • Java • C • C++ • JavaScript • HTML • CSS | MySQL • PostgreSQL • MongoDB • SQLite | scikit‑learn • TensorFlow • XGBoost • Pandas • NumPy • Matplotlib | Docker • AWS • Azure | NLP (NLTK, Transformers) • CV (OpenCV) | Git • CI/CD (Jenkins, GitHub Actions) |
 
 ---
 
 ## 🚀 Notable Projects
-
-### 🌾 Crop & Fertilizer Recommendation System
-- **Tech:** Python • Flask • scikit‑learn • Random Forest
-- **Highlights:**
-  - Predicted optimal crops/fertilizers from soil & climate inputs.
-  - Built a Flask UI for farmers to get real‑time recommendations.
-- **Repo:** [Crop-and-Fertilizer-Recommendation-System](https://github.com/Gaurav-3002/Crop-and-Fertilizer-Recommendation-System-using-ML)
 
 ### 🏥 AI‑Powered Health Chatbot
 - **Tech:** Streamlit • FastAPI • MedBERT • BioGPT • SQLite
@@ -41,6 +33,13 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
   - Secure JWT‑based authentication & chat history management.
   - MedBERT for intent classification; BioGPT for response generation.
 - **Repo:** [AI-Powered-Health-Chatbot](https://github.com/Gaurav-3002/AI-Powered-Health-Chatbot)
+
+### 🌾 Crop & Fertilizer Recommendation System
+- **Tech:** Python • Flask • scikit‑learn • Random Forest
+- **Highlights:**
+  - Predicted optimal crops/fertilizers from soil & climate inputs.
+  - Built a Flask UI for farmers to get real‑time recommendations.
+- **Repo:** [Crop-and-Fertilizer-Recommendation-System](https://github.com/Gaurav-3002/Crop-and-Fertilizer-Recommendation-System-using-ML)
 
 ### 🦠 Disease Prediction System
 - **Tech:** Python • Flask • Voting Ensemble (RFC, NB, SVC)
