@@ -21,7 +21,7 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
 
 | Languages & Frameworks             | Databases & Tools        | ML & Data Science                 | DevOps & Cloud                   |
 | ---------------------------------- | ------------------------ | --------------------------------- | -------------------------------- |
-| Python • Java • C • C++ • JavaScript • HTML • CSS | MySQL • PostgreSQL • MongoDB • SQLite | scikit‑learn • TensorFlow • XGBoost • Pandas • NumPy • Matplotlib | Docker • AWS • Azure | NLP (NLTK, Transformers) • CV (OpenCV) | Git • CI/CD (Jenkins, GitHub Actions) |
+| Python • Java • C • C++ • JavaScript • HTML • CSS | MySQL • PostgreSQL • MongoDB • SQLite | Scikit‑learn • TensorFlow • XGBoost • Pandas • NumPy • Matplotlib | Docker • AWS • Azure | NLP (NLTK, Transformers) • CV (OpenCV) | Git • CI/CD (Jenkins, GitHub Actions) |
 
 ---
 
