@@ -1,10 +1,14 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
-  ║      Welcome to Gaurav Kumar’s GitHub Profile!          ║
+  ║      Welcome to Gaurav Kumar’s GitHub Profile!           ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
-# Hi there, I’m Gaurav Kumar 👋
+<h2 align="center">Hii there 👋, I'm Gaurav Kumar</h2>
+<p align="center">
+  <img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" alt="Welcome GIF">
+</p>
+
 
 ## 📫 Connect with me
 
@@ -29,7 +33,28 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
 
 ## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,docker,aws,linux,mysql,git,github,vscode" />
+</div>
+
+<div align="center">
+
+  <!-- Data Science & ML Libraries -->
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue" />
+
+  <!-- Tools & Frameworks -->
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
+
+</div>
+
 
 ---
 
@@ -42,12 +67,13 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
   - MedBERT for intent classification; BioGPT for response generation.
 - **Repo:** [AI-Powered-Health-Chatbot](https://github.com/Gaurav-3002/AI-Powered-Health-Chatbot)
 
-### 🌾 Crop & Fertilizer Recommendation System
-- **Tech:** Python • Flask • scikit‑learn • Random Forest
+### 📦 CRUD API Server
+- **Tech:** Node.js • Express • MongoDB • Jest • SuperTest • Docker
 - **Highlights:**
-  - Predicted optimal crops/fertilizers from soil & climate inputs.
-  - Built a Flask UI for farmers to get real‑time recommendations.
-- **Repo:** [Crop-and-Fertilizer-Recommendation-System](https://github.com/Gaurav-3002/Crop-and-Fertilizer-Recommendation-System-using-ML)
+  - Robust RESTful API with unit, integration, and API testing.
+  - Implemented OpenAPI schema with Keploy test generation.
+  - Integrated Docker for containerized development and deployment.
+- **Repo:** [CRUD-API-Server](https://github.com/Gaurav-3002/crud-api-server)
 
 ### 🦠 Disease Prediction System
 - **Tech:** Python • Flask • Voting Ensemble (RFC, NB, SVC)
@@ -58,11 +84,11 @@ I’m a final-year Computer Science undergrad at KIIT University (CGPA: 8.54/10)
 ---
 
 ## 🏆 Achievements & Certifications
-- **Viasat: Space For Good India** University Phase 2 (May 2025)  
+- **AWS Academy Cloud Architecting Certificate**, Issuer: AWS  
+- **Red Hat System Administration I (RH124 – RHA)**, Version 9.3
 - **GirlScript Summer of Code (GSSOC)** Extended Contributor  
-- **Microsoft & SAP AI Transformative Internship** (TechSaksham, Credential TSPIN24_613857)  
-- **Postman API Fundamentals Student Expert**  
-- **Udemy Git, GitHub & Markdown Crash Course**  
+- **Postman API Fundamentals Student Expert**
+- **Viasat: Space For Good India** University Phase 2 (May 2025)  
 
 ---
 
